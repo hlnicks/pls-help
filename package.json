@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/grayad/DevNet#readme",
   "dependencies": {
-    "concurrently": "^7.4.0"
+    "bluebird": "^3.7.2",
+    "concurrently": "^7.4.0",
+    "mongodb": "^4.9.1"
   }
 }
